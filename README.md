@@ -69,6 +69,10 @@ Crop Disease Detection/
 └── apps/
     └── app.py
 
+## Live Demo
+https://crop-disease-detection-ixx8yuwayeqmr3afghehmw.streamlit.app/
+
+
 ## Key Lesson
 Transfer learning makes deep learning genuinely accessible without
 massive compute. Freezing 2.26M pretrained ImageNet weights and
