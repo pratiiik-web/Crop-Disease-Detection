@@ -70,7 +70,7 @@ Crop Disease Detection/
     └── app.py
 
 ## Live Demo
-https://crop-disease-detection-ixx8yuwayeqmr3afghehmw.streamlit.app/
+🔗 [Open Dashboard](https://crop-disease-detection-ixx8yuwayeqmr3afghehmw.streamlit.app/)
 
 
 ## Key Lesson
